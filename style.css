@@ -34,7 +34,10 @@
 form .display{
     display: flex;
     justify-content: flex-end;
+    border-radius: 10px;
     margin: 20px 0;
+    background: #29313b;
+
 }
 form .display input{
     text-align: right;
